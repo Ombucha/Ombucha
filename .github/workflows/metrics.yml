@@ -11,7 +11,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
 
-          user: Pysics
+          user: Infiniticity
           template: classic
           base: header, activity, community, repositories, metadata
           token: ${{ secrets.METRICS_TOKEN }}
@@ -74,7 +74,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
 
-          user: Pysics
+          user: Infiniticity
           template: classic
           base: ""
           token: ${{ secrets.METRICS_TOKEN }}
