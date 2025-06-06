@@ -10,6 +10,11 @@ Date: 2025-06-06
 ##### Web Service #####
 #######################
 
+"""
+A simple HTTP server that serves a welcome message.
+This server runs in a separate thread and listens on port 8080.
+"""
+
 import threading
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
@@ -33,6 +38,10 @@ threading.Thread(target=run_server, daemon=True).start()
 ###############################################
 ##### Unsplash and GitHub API Integration #####
 ###############################################
+
+"""
+This script fetches a random photo from Unsplash every hour and updates the `README.md` file.
+"""
 
 import os
 import base64
@@ -65,6 +74,7 @@ while True:
         response = requests.get(f"{GITHUB_BASE_URL}/repos/Ombucha/Ombucha/contents/README.md", headers=headers).json()
         sha = response["sha"]
 
+        desc_block = f"<br>\n<i>{description.strip()}</i>" if description and description.strip() else ""
         new_content = f"""# Omkaar's Image of the Hour
 
 ---
@@ -72,18 +82,16 @@ while True:
 <div align="center">
 
 <a href="{page_url}">
-    <img src="{image_url}" alt="Image" style="max-width:100%; height:auto;">
+  <img src="{image_url}" style="max-width:100%; height:auto;">
 </a>
 
-<br>
-
-<i>{description}</i>
+{desc_block}
 
 </div>
 
 ---
 
-**Photo by** [{author_name}](https://unsplash.com/@{author_username}) on Unsplash
+**Photo by** [{author_name}](https://unsplash.com/@{author_username}) **on Unsplash**
 """
         encoded_content = base64.b64encode(new_content.encode()).decode()
 
