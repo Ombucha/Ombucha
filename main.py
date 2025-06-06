@@ -49,9 +49,11 @@ while True:
 
     headers = {"Authorization": f"Client-ID {UNSPLASH_ACCESS_KEY}"}
     params = {"orientation": "landscape"}
-    response = requests.get(f"{UNSPLASH_BASE_URL}/photos/random", headers=headers, params=params).json()
+    response = requests.get(f"{UNSPLASH_BASE_URL}/photos/random", headers=headers, params=params)
 
     if response.status_code == 200:
+
+        response = response.json()
 
         image_url = response["urls"]["regular"]
         description = response.get("description", "")
