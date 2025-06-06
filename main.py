@@ -47,11 +47,6 @@ GITHUB_BASE_URL = "https://api.github.com"
 
 while True:
 
-    now = datetime.now(timezone.utc)
-    next_hour = (now + timedelta(hours=1)).replace(minute=0, second=0, microsecond=0)
-    wait_seconds = (next_hour - now).total_seconds()
-    time.sleep(wait_seconds)
-
     headers = {"Authorization": f"Client-ID {UNSPLASH_ACCESS_KEY}"}
     params = {"orientation": "landscape"}
     response = requests.get(f"{UNSPLASH_BASE_URL}/photos/random", headers=headers, params=params).json()
@@ -100,3 +95,8 @@ while True:
             }
         }
         response = requests.put(f"{GITHUB_BASE_URL}/repos/Ombucha/Ombucha/contents/README.md", headers=headers, json=payload)
+
+    now = datetime.now(timezone.utc)
+    next_hour = (now + timedelta(hours=1)).replace(minute=0, second=0, microsecond=0)
+    wait_seconds = (next_hour - now).total_seconds()
+    time.sleep(wait_seconds)
