@@ -4,15 +4,15 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/photographers-gear-ready-to-be-used-w4avgGL6Icg">
-  <img src="https://images.unsplash.com/photo-1747764869395-ce3ce016e622?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkzNTE2MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/people-sit-at-a-counter-in-a-cafe-x1yoVtJ8Sls">
+  <img src="https://images.unsplash.com/photo-1748669194146-31611b0c11d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkzNTUyMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 <br>
-<i>Our photo and outdoor gear for photographing adventure elopements</i>
+<i>People at a cafe in Singapore</i>
 
 </div>
 
 ---
 
-**Photo by** [We are: The Chaffins](https://unsplash.com/@thechaffins) **on Unsplash**
+**Photo by** [Bhuwan Bansal](https://unsplash.com/@bhuwan_bansal) **on Unsplash**
