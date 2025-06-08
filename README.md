@@ -4,14 +4,15 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/flowers-bloom-in-the-golden-light-of-sunset-KljshtzSd64">
-  <img src="https://images.unsplash.com/photo-1748717111733-272c531d716d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkzODc2MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/a-sea-turtle-swims-under-crystal-clear-water-C5-bRP7A0Uw">
+  <img src="https://images.unsplash.com/photo-1746249485303-d03ce345878d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkzOTEyMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
-
+<br>
+<i>Hawaii</i>
 
 </div>
 
 ---
 
-**Photo by** [Liana S](https://unsplash.com/@cherstve_pechivo) **on Unsplash**
+**Photo by** [Royce Fonseca](https://unsplash.com/@casunshine0508) **on Unsplash**
