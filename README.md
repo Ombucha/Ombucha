@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/a-woman-swims-underwater-with-bubbles-Qvgn_dEEYTs">
-  <img src="https://images.unsplash.com/photo-1745233710584-332f527ecd0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDk3MDQ0MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/babys-tiny-feet-rest-on-a-soft-white-blanket-OKZhbdgOuso">
+  <img src="https://images.unsplash.com/photo-1748032886813-3b7f6dc863b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDk3MDgwMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [Klara Kulikova](https://unsplash.com/@kkalerry) **on Unsplash**
+**Photo by** [Kateryna Hliznitsova](https://unsplash.com/@kate_gliz) **on Unsplash**
