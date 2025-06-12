@@ -55,13 +55,20 @@ UNSPLASH_BASE_URL = "https://api.unsplash.com"
 GITHUB_BASE_URL = "https://api.github.com"
 
 while True:
+    headers = {
+        "Authorization": f"Client-ID {UNSPLASH_ACCESS_KEY}"
+    }
+    params = {
+        "orientation": "landscape"
+    }
 
-    headers = {"Authorization": f"Client-ID {UNSPLASH_ACCESS_KEY}"}
-    params = {"orientation": "landscape"}
-    response = requests.get(f"{UNSPLASH_BASE_URL}/photos/random", headers=headers, params=params)
+    response = requests.get(
+        f"{UNSPLASH_BASE_URL}/photos/random",
+        headers=headers,
+        params=params
+    )
 
     if response.status_code == 200:
-
         response = response.json()
 
         image_url = response["urls"]["regular"]
@@ -105,6 +112,8 @@ while True:
             }
         }
         response = requests.put(f"{GITHUB_BASE_URL}/repos/Ombucha/Ombucha/contents/README.md", headers=headers, json=payload)
+    else:
+        print(f"Failed to get photo: {response.status_code}")
 
     now = datetime.now(timezone.utc)
     next_hour = (now + timedelta(hours=1)).replace(minute=0, second=0, microsecond=0)
