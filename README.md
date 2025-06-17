@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/modern-kitchen-with-light-wood-cabinets-and-a-dining-table-9zfcMAo6m-o">
-  <img src="https://images.unsplash.com/photo-1748183781742-a2473d27a763?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAxMjIwMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/night-sky-with-aurora-borealis-over-a-forest-B-vjWtZLC9g">
+  <img src="https://images.unsplash.com/photo-1747633126452-dee49902fc6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAxMjU2MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [Aleksandra Dementeva](https://unsplash.com/@alex_photogram) **on Unsplash**
+**Photo by** [Zach Kessinger](https://unsplash.com/@wonderwallphotos) **on Unsplash**
