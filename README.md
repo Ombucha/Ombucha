@@ -4,15 +4,14 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/people-sit-at-a-counter-in-a-cafe-x1yoVtJ8Sls">
-  <img src="https://images.unsplash.com/photo-1748669194146-31611b0c11d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAxNjUyMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/sunrise-paints-the-sky-over-mountains-MS0p6vMMCZE">
+  <img src="https://images.unsplash.com/photo-1748223341494-86fb07ff110b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAxNjg4MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
-<br>
-<i>People at a cafe in Singapore</i>
+
 
 </div>
 
 ---
 
-**Photo by** [Bhuwan Bansal](https://unsplash.com/@bhuwan_bansal) **on Unsplash**
+**Photo by** [Bambi Corro](https://unsplash.com/@bambicorro) **on Unsplash**
