@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/sunlight-casts-shadows-of-a-hanging-plant-C_jcJEalIUY">
-  <img src="https://images.unsplash.com/photo-1748256861912-e2058ccfcb7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAxNDcyMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/green-leaves-and-foliage-create-a-dark-and-lush-scene-4axNezh03UA">
+  <img src="https://images.unsplash.com/photo-1746908592757-2c1d682b71db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAxNTA4MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [Chris Weiher](https://unsplash.com/@chrisvomradio) **on Unsplash**
+**Photo by** [Łukasz Rawa](https://unsplash.com/@lukasz_rawa) **on Unsplash**
