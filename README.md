@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/a-vibrant-japanese-street-scene-at-night-XMAbH81gUbQ">
-  <img src="https://images.unsplash.com/photo-1746150361967-7c20603d25cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAyNDA4MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/purple-clouds-and-swirls-make-a-cosmic-display-DPcGXBCNL0c">
+  <img src="https://images.unsplash.com/photo-1743942439157-2194bd47bd1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAyNDQ0MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [mos design](https://unsplash.com/@mosdesign) **on Unsplash**
+**Photo by** [Marek Pavlík](https://unsplash.com/@marpicek) **on Unsplash**
