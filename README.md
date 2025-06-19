@@ -4,15 +4,14 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/white-geometric-architectural-pattern-fills-the-image-FXWj09I3a_Q">
-  <img src="https://images.unsplash.com/photo-1748746186394-867f987bc1f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAzMjM2MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/abstract-background-featuring-undulating-soft-shapes-iDvy-VLTf4M">
+  <img src="https://images.unsplash.com/photo-1749371930388-50c782b0acea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAzMjcyMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
-<br>
-<i>seamless pattern of geometric shapes</i>
+
 
 </div>
 
 ---
 
-**Photo by** [Declan Sun](https://unsplash.com/@declansun) **on Unsplash**
+**Photo by** [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) **on Unsplash**
