@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/clouds-illuminated-by-a-golden-light-glow-OKGd1IRTYM4">
-  <img src="https://images.unsplash.com/photo-1747586181145-ac087fbb281a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAyOTEyMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/a-table-topped-with-a-phone-and-a-cup-of-coffee-S2LYSJoAjnU">
+  <img src="https://images.unsplash.com/photo-1689757762690-2f09ec1b7228?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAyOTQ4MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [MARIOLA GROBELSKA](https://unsplash.com/@mariolagr) **on Unsplash**
+**Photo by** [Ocult Store](https://unsplash.com/@ocultstore) **on Unsplash**
