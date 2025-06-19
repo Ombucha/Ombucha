@@ -4,15 +4,14 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/a-wooden-sauna-overlooks-a-forest-view-xY6H6qv6HmI">
-  <img src="https://images.unsplash.com/photo-1745894118353-88e64617e064?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAyODc2MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/clouds-illuminated-by-a-golden-light-glow-OKGd1IRTYM4">
+  <img src="https://images.unsplash.com/photo-1747586181145-ac087fbb281a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAyOTEyMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
-<br>
-<i>Sauna interior (IG: @clay.banks)</i>
+
 
 </div>
 
 ---
 
-**Photo by** [Clay Banks](https://unsplash.com/@claybanks) **on Unsplash**
+**Photo by** [MARIOLA GROBELSKA](https://unsplash.com/@mariolagr) **on Unsplash**
