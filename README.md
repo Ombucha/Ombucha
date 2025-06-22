@@ -4,14 +4,15 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/a-dog-runs-on-a-green-grassy-hill-wwa8fMBM21c">
-  <img src="https://images.unsplash.com/photo-1745849610268-f81d7aed915b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA1Njg0MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/a-wooden-sauna-overlooks-a-forest-view-xY6H6qv6HmI">
+  <img src="https://images.unsplash.com/photo-1745894118353-88e64617e064?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA1NzIwMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
-
+<br>
+<i>Sauna interior (IG: @clay.banks)</i>
 
 </div>
 
 ---
 
-**Photo by** [Ciocan Ciprian](https://unsplash.com/@cipriann) **on Unsplash**
+**Photo by** [Clay Banks](https://unsplash.com/@claybanks) **on Unsplash**
