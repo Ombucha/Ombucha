@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/a-ship-sails-in-a-cold-icy-seascape-Pr4X8mqN0X4">
-  <img src="https://images.unsplash.com/photo-1745282322383-8ec67cc895b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA3NDg0MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/a-surfer-ponders-near-the-ocean-z6pV82S1Pbc">
+  <img src="https://images.unsplash.com/photo-1746310833406-1216bee76a09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA3NTIwMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
