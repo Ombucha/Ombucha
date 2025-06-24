@@ -4,15 +4,14 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/a-picturesque-coastal-town-nestled-against-mountains-2msFqISyGUU">
-  <img src="https://images.unsplash.com/photo-1748178765097-1c012c848596?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA3MzA0MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/a-neon-sign-illuminates-a-dark-city-street-sYhHjzOQfd0">
+  <img src="https://images.unsplash.com/photo-1749315185949-5540f5d6549a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA3MzQwMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
-<br>
-<i>View of Ørnes in Norway</i>
+
 
 </div>
 
 ---
 
-**Photo by** [Hans-Joachim Kaiser](https://unsplash.com/@zesa) **on Unsplash**
+**Photo by** [ZHENYU LUO](https://unsplash.com/@mrnuclear) **on Unsplash**
