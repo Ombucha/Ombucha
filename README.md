@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/colorful-houses-line-a-bright-blue-sky-Z6WmHx0nQXw">
-  <img src="https://images.unsplash.com/photo-1748228885250-49564b614db9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA4NjcyMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/an-elderly-man-looks-at-a-store-window-pT69DBS2YL0">
+  <img src="https://images.unsplash.com/photo-1745488099170-a241b8842040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA4NzA4MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [Braden Jarvis](https://unsplash.com/@jarvisphoto) **on Unsplash**
+**Photo by** [- Kenny](https://unsplash.com/@kennyzhang29) **on Unsplash**
