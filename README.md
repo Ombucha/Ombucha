@@ -4,15 +4,15 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/sun-setting-over-a-vast-hazy-ocean-yAN-kUesgck">
-  <img src="https://images.unsplash.com/photo-1747926836633-e45cc5193310?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA5MzkyMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/two-colorful-chairs-sit-against-a-white-wall-jAYDj_NlLVw">
+  <img src="https://images.unsplash.com/photo-1750024774702-1fd1a377fdfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA5NDI4MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 <br>
-<i>A summer sunset at Azenhas do Mar, in Sintra, Portugal.</i>
+<i>Two modern armchairs—one mustard yellow, the other coral red—against a clean white wall at the Musée Dobrée in Nantes, France. Photographed on Kodak Portra 400 with a Nikon F3 HP and 50mm lens.</i>
 
 </div>
 
 ---
 
-**Photo by** [Ivo Sousa Martins](https://unsplash.com/@ivosouzamartins) **on Unsplash**
+**Photo by** [Sébastien Lavalaye](https://unsplash.com/@pelloche) **on Unsplash**
