@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/clear-bubbles-on-a-pink-surface-X5exGWdUhS8">
-  <img src="https://images.unsplash.com/photo-1747723025339-c4930256a8da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTExMDg0MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/volcanic-landscape-under-a-dramatic-cloudy-sky-YwwUXa6NvX4">
+  <img src="https://images.unsplash.com/photo-1750779940304-95eb48d09b5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTExMTIwMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [Ruliff Andrean](https://unsplash.com/@ruliffand) **on Unsplash**
+**Photo by** [Colin Watts](https://unsplash.com/@colinwatts) **on Unsplash**
