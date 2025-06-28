@@ -4,14 +4,15 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/a-dark-figure-walks-past-a-building-AbOoSyR9-xc">
-  <img src="https://images.unsplash.com/photo-1748020633629-dca427d2d1db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTEwNjUyMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/a-man-casts-a-shadow-on-a-blue-background-Y9TiVk_Yhv4">
+  <img src="https://images.unsplash.com/photo-1746469535771-71a672e8719f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTEwNjg4MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
-
+<br>
+<i>shapes and shadows</i>
 
 </div>
 
 ---
 
-**Photo by** [Dark Narrative.](https://unsplash.com/@bw_photo) **on Unsplash**
+**Photo by** [Karsten Winegeart](https://unsplash.com/@karsten116) **on Unsplash**
