@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/purple-clouds-and-swirls-make-a-cosmic-display-DPcGXBCNL0c">
-  <img src="https://images.unsplash.com/photo-1743942439157-2194bd47bd1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTEyMzQ0MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/soft-curved-lines-on-a-beige-background-RpSROCi8iJ8">
+  <img src="https://images.unsplash.com/photo-1746132730694-92a72b5dc843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTEyMzgwMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [Marek Pavlík](https://unsplash.com/@marpicek) **on Unsplash**
+**Photo by** [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) **on Unsplash**
