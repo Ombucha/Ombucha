@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/abstract-curves-and-light-create-a-captivating-composition-fBHi6X6B4tA">
-  <img src="https://images.unsplash.com/photo-1744457167261-a8ab993010fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTE1NTg0MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/a-woman-with-red-light-illuminating-her-face-gyqgHw2t4Kw">
+  <img src="https://images.unsplash.com/photo-1751220386717-6e5ba087ec3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTE1NjIwMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) **on Unsplash**
+**Photo by** [Roxy Aln](https://unsplash.com/@roxy_aln) **on Unsplash**
