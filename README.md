@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/woman-looks-through-a-tennis-racket-HVfkWzCaJAQ">
-  <img src="https://images.unsplash.com/photo-1749577298213-793cfef19b24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTE1NjkyMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/curled-paper-forms-create-a-minimalist-composition-cUAgCVlkSYM">
+  <img src="https://images.unsplash.com/photo-1743756618181-99a77edf8eab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTE1NzI4MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [Shutter Speed](https://unsplash.com/@shutter_speed_) **on Unsplash**
+**Photo by** [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) **on Unsplash**
