@@ -4,14 +4,15 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/a-close-up-view-of-a-white-wall-BxWmKdbUdfo">
-  <img src="https://images.unsplash.com/photo-1734779206772-f21d663e96d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTE4NjA4MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/a-mountain-covered-in-snow-under-a-cloudy-sky-0rrMHiZtdgk">
+  <img src="https://images.unsplash.com/photo-1735507582615-0321c88f6dbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTE4NjQ0MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
-
+<br>
+<i>Winter sunset in the Lienzer dolomiten</i>
 
 </div>
 
 ---
 
-**Photo by** [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) **on Unsplash**
+**Photo by** [Aydin Hassan](https://unsplash.com/@aydinhassan) **on Unsplash**
