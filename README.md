@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/people-stand-under-umbrellas-on-a-rainy-street-7AMBs4e68Zk">
-  <img src="https://images.unsplash.com/photo-1751195119402-66f0e46d008e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTIyNzEyMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/an-abandoned-souvenir-shop-underneath-a-sign-gcolL-KmtB8">
+  <img src="https://images.unsplash.com/photo-1751019423956-e64c704ddf08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTIyNzQ4MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [SRTgraphy](https://unsplash.com/@srtgraphy) **on Unsplash**
+**Photo by** [Polina Kuzovkova](https://unsplash.com/@p_kuzovkova) **on Unsplash**
