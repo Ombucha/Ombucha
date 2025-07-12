@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/people-stand-on-the-deck-of-a-ship-L3aZYJp8Cqc">
-  <img src="https://images.unsplash.com/photo-1745953129684-5c877d91f4d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTIzMDAwMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/abstract-curves-and-light-create-a-captivating-composition-fBHi6X6B4tA">
+  <img src="https://images.unsplash.com/photo-1744457167261-a8ab993010fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTIzMDM2MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [David Schultz](https://unsplash.com/@davidschultz) **on Unsplash**
+**Photo by** [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) **on Unsplash**
