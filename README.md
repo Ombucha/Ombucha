@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/abstract-light-waves-glow-against-a-dark-background-GCjb21XeHzk">
-  <img src="https://images.unsplash.com/photo-1750315080835-6f8640a00a12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI0MTg4MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/sunset-reflects-over-water-with-tall-grass-in-focus-xUfATl0k8Cg">
+  <img src="https://images.unsplash.com/photo-1749802449762-5e428ccf9a45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI0MjI0MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [MARIOLA GROBELSKA](https://unsplash.com/@mariolagr) **on Unsplash**
+**Photo by** [Daniil Silantev](https://unsplash.com/@betagamma) **on Unsplash**
