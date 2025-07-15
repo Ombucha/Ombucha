@@ -4,15 +4,14 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/abstract-blobs-and-shapes-of-various-colors-o1zpilrZMzE">
-  <img src="https://images.unsplash.com/photo-1749925590042-eb5a4f5dc1a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI2MDI0MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/mountains-reflect-beautifully-on-the-calm-waters-surface-YAhAtPA3R5s">
+  <img src="https://images.unsplash.com/photo-1750779941037-b3cbfde22acb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI2MDYwMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
-<br>
-<i>Abstract Organic Shapes - Wallpaper - 8K</i>
+
 
 </div>
 
 ---
 
-**Photo by** [Nigel Hoare](https://unsplash.com/@dementedpixel) **on Unsplash**
+**Photo by** [Colin Watts](https://unsplash.com/@colinwatts) **on Unsplash**
