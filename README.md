@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/a-tree-silhouetted-against-a-sunset-sky-AuVYd7aR5a4">
-  <img src="https://images.unsplash.com/photo-1741850821397-ed0e5d9bc125?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI2Mzg0MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/people-walk-through-a-tunnel-towards-bright-light-SL5dYCFCgeE">
+  <img src="https://images.unsplash.com/photo-1750837496753-d223cfc91fd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI2NDIwMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [Peter Thomas](https://unsplash.com/@lifeof_peter_) **on Unsplash**
+**Photo by** [Chris Weiher](https://unsplash.com/@chrisvomradio) **on Unsplash**
