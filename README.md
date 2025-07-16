@@ -4,14 +4,15 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/a-grassy-hill-with-a-foggy-rock-J6gzkcsOVCA">
-  <img src="https://images.unsplash.com/photo-1751131830845-0ee1fd12491d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI2NzgwMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/dark-storm-clouds-loom-over-a-field-98mac9dxVfM">
+  <img src="https://images.unsplash.com/photo-1750600862513-3b2cd722e296?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI2ODE2MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
-
+<br>
+<i>Stormclouds rolling by a field of wheat near Brownfield, Texas.</i>
 
 </div>
 
 ---
 
-**Photo by** [Claudio Schwarz](https://unsplash.com/@purzlbaum) **on Unsplash**
+**Photo by** [Steve Gribble](https://unsplash.com/@steve_g_) **on Unsplash**
