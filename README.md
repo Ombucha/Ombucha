@@ -4,15 +4,14 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/a-shadowy-figure-stands-on-a-sandy-field-GbIdVzy4gnY">
-  <img src="https://images.unsplash.com/photo-1751904083454-2ce5f84cb943?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI2MjQwMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/sunset-illuminates-a-park-with-a-castle-W3Jy2WrRvdI">
+  <img src="https://images.unsplash.com/photo-1751273560917-2cfcc1b9826b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI2Mjc2MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
-<br>
-<i>Kodak Funsaver</i>
+
 
 </div>
 
 ---
 
-**Photo by** [Andrea Caligiuri](https://unsplash.com/@andreacaligiuri) **on Unsplash**
+**Photo by** [Lawrence Krowdeed](https://unsplash.com/@krowdeed) **on Unsplash**
