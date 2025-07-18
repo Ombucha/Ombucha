@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/the-manhattan-bridge-spans-a-shimmering-waterway-frputHdEZS0">
-  <img src="https://images.unsplash.com/photo-1751510288461-2d088d6bf76d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI4MDc2MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/mountains-emerge-from-the-shadows-under-a-dramatic-sky-ISezKSUL2gk">
+  <img src="https://images.unsplash.com/photo-1752035680973-79d3836f317a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI4MTEyMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [Danny Greenberg](https://unsplash.com/@by_danny_g) **on Unsplash**
+**Photo by** [Peter Thomas](https://unsplash.com/@lifeof_peter_) **on Unsplash**
