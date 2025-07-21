@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/a-polar-bear-swims-gracefully-underwater-YGMuJeLFvXo">
-  <img src="https://images.unsplash.com/photo-1751831106604-d848ef0e007d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTMxMjQ0MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/a-motorcycle-rider-races-on-a-dirt-track-W6OLXCew2a0">
+  <img src="https://images.unsplash.com/photo-1751356424626-71c30ced9eec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTMxMjgwMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [Valentin](https://unsplash.com/@omikron) **on Unsplash**
+**Photo by** [Gijs Coolen](https://unsplash.com/@gijsparadijs) **on Unsplash**
