@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/sand-ripples-create-a-beautiful-desert-texture-rogGtVSqUVA">
-  <img src="https://images.unsplash.com/photo-1745203618275-b079faae7e56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM0NzcyMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/a-woman-stands-on-the-beach-in-black-and-white-MExH7NzUub8">
+  <img src="https://images.unsplash.com/photo-1745964893863-2bf9fd0b4571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM0ODA4MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [Brandon Stoll](https://unsplash.com/@brandonstoll) **on Unsplash**
+**Photo by** [Rodrigo Silva](https://unsplash.com/@rodrigoesant) **on Unsplash**
