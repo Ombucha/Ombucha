@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/a-skateboarder-does-a-big-air-trick-over-a-bowl-u0alw4egy0g">
-  <img src="https://images.unsplash.com/photo-1751273558776-33fa9957a80a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM3NzI0MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/people-walk-in-the-rain-under-umbrellas-iPSQlp4rOpI">
+  <img src="https://images.unsplash.com/photo-1751076547687-a7f17a14cd38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM3NzYwMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [Lawrence Krowdeed](https://unsplash.com/@krowdeed) **on Unsplash**
+**Photo by** [Spenser Sembrat](https://unsplash.com/@spensersembrat) **on Unsplash**
