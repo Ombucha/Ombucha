@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/icebergs-glisten-on-a-dark-beach-beneath-cloudy-skies-pR-5gi-hB1c">
-  <img src="https://images.unsplash.com/photo-1750779940886-edfa73b5c5c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM3NDM2MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/fiery-red-sky-with-silhouetted-mountains-7QoMXSjA_MQ">
+  <img src="https://images.unsplash.com/photo-1750524446387-188372eb8e42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM3NDcyMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [Colin Watts](https://unsplash.com/@colinwatts) **on Unsplash**
+**Photo by** [Nik Schmidt](https://unsplash.com/@niktravelstheworld) **on Unsplash**
