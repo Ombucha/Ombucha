@@ -4,14 +4,15 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/mountains-are-lit-with-warm-sunlight-under-cloudy-skies-hJWBUl33h18">
-  <img src="https://images.unsplash.com/photo-1753010837210-06dfb1ffc5d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM5NTk2MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/a-person-walks-alone-on-a-desert-road-IK9LSakjblM">
+  <img src="https://images.unsplash.com/photo-1751574432395-82c996aa788d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM5NjMyMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
-
+<br>
+<i>"Wasteland"</i>
 
 </div>
 
 ---
 
-**Photo by** [Jonas Degener](https://unsplash.com/@jonasdegener) **on Unsplash**
+**Photo by** [Marek Piwnicki](https://unsplash.com/@marekpiwnicki) **on Unsplash**
