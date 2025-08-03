@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/a-text-snippet-focused-through-a-magnifying-glass-wgbZ4ZeJCV0">
-  <img src="https://images.unsplash.com/photo-1753458198651-4752b7b7960e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQyMzMyMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/people-row-boats-on-a-lake-near-mountains-5tRGIYZ_gMs">
+  <img src="https://images.unsplash.com/photo-1752035682766-0b1cd0edd1b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQyMzY4MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [Planet Volumes](https://unsplash.com/@planetvolumes) **on Unsplash**
+**Photo by** [Peter Thomas](https://unsplash.com/@lifeof_peter_) **on Unsplash**
