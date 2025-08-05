@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/a-forest-filled-with-lots-of-trees-next-to-a-river-aSiOfZAv_6M">
-  <img src="https://images.unsplash.com/photo-1735927030748-26623a3422ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQzODA4MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/abstract-white-folds-create-a-minimalist-design-TtAoOVEXgMw">
+  <img src="https://images.unsplash.com/photo-1741680581152-8ac5fb23ef47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQzODQ0MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [Fabio Sasso](https://unsplash.com/@abduzeedo) **on Unsplash**
+**Photo by** [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) **on Unsplash**
