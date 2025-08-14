@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/mountains-silhouetted-in-golden-light-nGG6m3RbjSk">
-  <img src="https://images.unsplash.com/photo-1753730318197-5cccde0b0446?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTUxNjIwMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/aurora-borealis-dances-over-snowy-mountains-at-night-My9N8KrYGuI">
+  <img src="https://images.unsplash.com/photo-1752759667426-be8b901c5fc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTUxNjU2MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [Jacob Reinikainen](https://unsplash.com/@jacobreinikainen) **on Unsplash**
+**Photo by** [Francesco Ungaro](https://unsplash.com/@francesco_ungaro) **on Unsplash**
