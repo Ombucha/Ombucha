@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/a-british-band-is-marching-in-a-colorful-parade-cCqWR8X6goE">
-  <img src="https://images.unsplash.com/photo-1752500957720-7b412442106b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTUyNDQ4MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/woman-holds-a-camera-seemingly-thoughtful-AqYlYYO3v3o">
+  <img src="https://images.unsplash.com/photo-1753019493958-713b3efa38de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTUyNDg0MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
 
@@ -14,4 +14,4 @@
 
 ---
 
-**Photo by** [ONUR KURT](https://unsplash.com/@bykurt) **on Unsplash**
+**Photo by** [Brooke Balentine](https://unsplash.com/@brookebalentine) **on Unsplash**
