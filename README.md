@@ -4,14 +4,15 @@
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/two-figures-silhouetted-on-a-bridge-railing-OvMuU66o6Cc">
-  <img src="https://images.unsplash.com/photo-1754769440790-fd58bfbf2540?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTUzNDkyMDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
+<a href="https://unsplash.com/photos/a-bison-grazes-in-a-field-under-a-sunny-sky-zLweeVLU9Fo">
+  <img src="https://images.unsplash.com/photo-1748783266329-c50cf3feee36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NjA2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTUzNTI4MDB8&ixlib=rb-4.1.0&q=80&w=1080" style="max-width:100%; height:auto;">
 </a>
 
-
+<br>
+<i>Photo By: 📸 Ben Kelsey, Founder & President with We Care Wild Image Description: Bison. Mission Impact: This photograph was captured as part of We Care Wild’s mission to promote wildlife conservation and raise awareness of the importance of biodiversity. Every image helps tell the story of our planet’s diverse ecosystems and the need for sustainable practices to protect them. Website & Social Media: 🌍 Learn more about our work: wecarewild.org 📲 Follow us on social media for more wildlife photography and conservation stories.</i>
 
 </div>
 
 ---
 
-**Photo by** [Roman Melnychuk](https://unsplash.com/@chamooomile0) **on Unsplash**
+**Photo by** [We Care Wild](https://unsplash.com/@wecarewild) **on Unsplash**
